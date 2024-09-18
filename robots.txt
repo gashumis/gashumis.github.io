@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gashumis.github.io/sitemap.html.gz
+Sitemap: https://gashumis.github.io/app/sitemap.html.gz
+Sitemap: https://gashumis.github.io/assets/sitemap.html.gz
+Sitemap: https://gashumis.github.io/css/sitemap.html.gz
+Sitemap: https://gashumis.github.io/includes/sitemap.html.gz
+Sitemap: https://gashumis.github.io/item/sitemap.html.gz
+Sitemap: https://gashumis.github.io/src/sitemap.html.gz
